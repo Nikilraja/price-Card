@@ -1,0 +1,65 @@
+.price{
+  
+  width: 1100px;
+  height: 700px;
+  background-color: blue;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  margin: 100px;
+  
+}
+
+.title{
+  display: flex;
+}
+
+.Nav{
+  display:flex;
+
+
+  width: auto;
+  height: 60px;
+  background-color:grey
+
+
+}
+
+.card{
+  display: flex wrap;
+  flex-wrap: auto;
+  width: 250px;
+  height: 450px;
+  background-color: antiquewhite;
+  margin: 60px;
+  border-radius: 10%;
+}
+
+.App .card-title {
+ text-align: center;
+}
+
+.App .card-price{
+  text-align: center;
+  font-size: 60px;
+  margin: 10px;
+}
+
+.period{
+  font-size: 10px;
+}
+
+.btn{
+  width: 200px;
+  height: 100px;
+  background-color: #0062E6;
+  margin-left: 35%;
+  margin-top: 100px;
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+  
+
+}
