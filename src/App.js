@@ -47,7 +47,7 @@ function Card() {
                 Reports</li>
             </ul>
             <div class="d-grid">
-              <a href="#" class="btn btn-primary text-uppercase">Button</a>
+              <a class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
 
